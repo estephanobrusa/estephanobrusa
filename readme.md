@@ -13,26 +13,26 @@ Building scalable web platforms, backend services and serverless systems.
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Fastify](https://img.shields.io/badge/Fastify-black?logo=fastify)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-3B48CC)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -55,5 +55,5 @@ English
 # Profile Views
 
 ![Profile views](https://komarev.com/ghpvc/?username=estephanobrusa)
-# estephanobrusa
+
 # estephanobrusa
