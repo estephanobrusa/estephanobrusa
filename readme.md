@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 # Estephano Brusa
 
 Full-Stack Developer focused on **TypeScript, React and cloud architectures**.  
@@ -46,14 +48,17 @@ English
 
 # GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=estephanobrusa&show_icons=true)
+<a href="https://github.com/estephanobrusa">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=estephanobrusa&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats" />
+</a>
+<a href="https://github.com/estephanobrusa">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estephanobrusa&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Langs" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estephanobrusa&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=estephanobrusa&theme=tokyonight)
 
 ---
 
 # Profile Views
 
 ![Profile views](https://komarev.com/ghpvc/?username=estephanobrusa)
-
-# estephanobrusa
